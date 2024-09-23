@@ -1,4 +1,7 @@
 {
+  "engines": {
+"node": "v20.12.1"
+  },
   "name": "pizzazza",
   "version": "1.0.0",
   "main": "index.js",
